@@ -13,6 +13,10 @@
 
 <a href="showFormStudent">Student From</a>
 
+<br><br>
+
+<a href="showFormCustomer">Customer From</a>
+
 
 </body>
 
